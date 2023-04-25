@@ -7,7 +7,7 @@ My core skills are React, Typescript, Javascript, NodeJS, GraphQL, MongoDB, MySQ
 
 I especially enjoy the nature of startups and I am proud to have been part of a number of great companies where I have been able to shine and grow and help them deliver complex software architectures. I am particularly good at grasping complex systems, refactoring and optimizing them and adding core new product features.
 
-You can download my Resume here
+You can download my Resume [here](https://github.com/pierreh/pierreh/raw/main/PierreHavelaar%20Resume.pdf)
 
 <!--
 **pierreh/pierreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
