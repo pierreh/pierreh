@@ -3,23 +3,28 @@
 Hi I’m Pierre, 
 a well rounded Full Stack Engineer with 25 years of experience in Software Engineering across multiple industries. I am capable of taking on new assignments and technologies with ease. I easily adapt to new situations, acquire new knowledge quickly and am able to transfer that to others. My strength is to digest complex functional requirements and build a solid and clean codebase. By having been self-employed for over half a decade I understand the need to focus on business value at all times.
 
-My core skills are React, Typescript, Javascript, NodeJS, GraphQL, MongoDB, MySQL and HTML/CSS, however I also have many years of experience with Java and C++ where I started my career. Over the years I have come to grow more towards Frontend WebApp development, which is where I do most of my work now.
+My core skills are React, Typescript, Javascript, NodeJS, GraphQL, MongoDB, MySQL and HTML/CSS and more, however I also have many years of experience with Java and C++ where I started my career. Over the years I have come to grow more towards Frontend WebApp development, which is where I do most of my work now.
 
 I especially enjoy the nature of startups and I am proud to have been part of a number of great companies where I have been able to shine and grow and help them deliver complex software architectures. I am particularly good at grasping complex systems, refactoring and optimizing them and adding core new product features.
 
 You can download my Resume [here](https://github.com/pierreh/pierreh/raw/main/PierreHavelaar%20Resume.pdf)
 
-<!--
-**pierreh/pierreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skillset
+Front-end: 
+<img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/1fd83b444c69021016fa88c4da14c838aa05b2c6a41a397b271b0bd2a3db8b27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="TypeScript" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/e7fb1dea9bc0a6fe6a36367b8beac6b466fff3fca562129c73e6163e14f690b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="JavaScript" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/885b0985fe963e8238b936dff767b703580241d3e4ded8ff1838db74ededf3e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="HTML5" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/770c853bbbb6c6ccfb7ca3aa612cc9e28cce79b7e2f9bf0e83044b63a49ef562/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="CSS3" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/2fc27046f4f87ebd887a6c17ec8548a9d3aaece35a0a526b651fbac493aa68e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="Bootstrap" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="Next JS" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/ec8056bddf659d21de39b358d9786e56731cd767117e091348411666a5e7eee6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="TailwindCSS" style="max-width: 100%;" height="25px">
 
-Here are some ideas to get you started:
+Back-end:
+<img src="https://camo.githubusercontent.com/f8a2aeb9ab2dc287302e4532f6bc50b84d2ac31b4c23515c160e9d9682d080b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="Nodejs" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/fa26cdb662920d74c32d5caa97bc25bc788686a88c7fb52b2adfafdf7378c3ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="Docker" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/fe1910c71ad2102dda2ceb57e535d70ae4f4e92b0b9709db7b1f811a161138b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="GraphQL" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/ac1ad27934f395c6867e2779a62915ec4e931a832bd7e5eb2f1a54d430db21dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f2532304772617068514c2d3331314338373f7374796c653d666c61742d737175617265266c6f676f3d61706f6c6c6f2d6772617068716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="Apollo GraphQL" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/39f1d8a38637ae577477b5fcbef2fffe2adf91734e144ad250178c96bd2844f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="MongoDB" style="max-width: 100%;" height="25px">
+<img src="https://camo.githubusercontent.com/3a365c443a6775e741b14140e4521b4b97bcf3763a904fa7c6364d303175bca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f69616d67726966666f6e2f" alt="PostgreSQL" style="max-width: 100%;" height="25px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
