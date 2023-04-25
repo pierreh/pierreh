@@ -1,4 +1,13 @@
-### Hi there 👋
+### Senior Software Engineer
+
+Hi I’m Pierre, 
+a well rounded Full Stack Engineer with 25 years of experience in Software Engineering across multiple industries. I am capable of taking on new assignments and technologies with ease. I easily adapt to new situations, acquire new knowledge quickly and am able to transfer that to others. My strength is to digest complex functional requirements and build a solid and clean codebase. By having been self-employed for over half a decade I understand the need to focus on business value at all times.
+
+My core skills are React, Typescript, Javascript, NodeJS, GraphQL, MongoDB, MySQL and HTML/CSS, however I also have many years of experience with Java and C++ where I started my career. Over the years I have come to grow more towards Frontend WebApp development, which is where I do most of my work now.
+
+I especially enjoy the nature of startups and I am proud to have been part of a number of great companies where I have been able to shine and grow and help them deliver complex software architectures. I am particularly good at grasping complex systems, refactoring and optimizing them and adding core new product features.
+
+You can download my Resume here
 
 <!--
 **pierreh/pierreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
